@@ -1,8 +1,8 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/device.mk \
-    $(LOCAL_DIR)/omni_amogus.mk
+    $(LOCAL_DIR)/aosp_amogus.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_amogus-user \
-    omni_amogus-userdebug \
-    omni_amogus-eng \
+    aosp_amogus-user \
+    aosp_amogus-userdebug \
+    aosp_amogus-eng \
